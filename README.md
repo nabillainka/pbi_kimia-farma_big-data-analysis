@@ -1,4 +1,6 @@
 # Big Data Analysis Project | Kimia Farma x Rakamin
+![Project Header](https://github.com/nabillainka/pbi_kimia-farma_big-data-analysis/blob/main/Image/ETIKAL.jpeg)
+*Sumber: [Kimia Farma - Etikal](https://www.kimiafarma.co.id/id/etikal)*
 
 ## 🔍 **Introduction**
 About the Program
@@ -25,9 +27,6 @@ Create an analysis table based on the aggregation results of the four imported t
 
 **Task 3** 
 Create a performance analysis dashboard for Kimia Farma for 2020-2023 in Google Looker Studio. The dashboard is based on the analysis table that has been created previously in BigQuery.
-
-
-## About Kimia Farma
 
 ## 📂 **Dashboard**
 Link: [Performance Analytics Dashboard - Kimia Farma](https://lookerstudio.google.com/s/nGRxQ9a-NnM)
