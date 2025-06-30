@@ -31,6 +31,4 @@ Create a performance analysis dashboard for Kimia Farma for 2020-2023 in Google 
 
 ## 📂 **Dashboard**
 Link: [Performance Analytics Dashboard - Kimia Farma](https://lookerstudio.google.com/s/nGRxQ9a-NnM)
-![Alt text](https://raw.githubusercontent.com/username/repo/main/images/logo.png)
-
-![dashboard](Dashboard/PBI_Kimia Farma_Big Data Analytics_Nabilla Inka S.jpg)
+![Dashboard Preview](https://github.com/nabillainka/pbi_kimia-farma_big-data-analysis/blob/main/Dashboard/PBI_Kimia%20Farma_Big%20Data%20Analytics_Nabilla%20Inka%20S.jpg)
