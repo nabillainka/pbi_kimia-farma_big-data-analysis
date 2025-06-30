@@ -9,4 +9,4 @@ The final project that will be made in this program is that you are asked to cre
 ## About Kimia Farma
 
 ## Dashboard
-Link: [Performance Analytics Dashboard - Kimia Farma](https://lookerstudio.google.com/reporting/18f1346f-49e6-41f9-b46c-c47cf0e4fdf9)
+Link: [Performance Analytics Dashboard - Kimia Farma](https://lookerstudio.google.com/s/nGRxQ9a-NnM)
